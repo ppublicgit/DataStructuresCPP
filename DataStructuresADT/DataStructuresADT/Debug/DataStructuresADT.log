@@ -1,0 +1,93 @@
+﻿  main.cpp
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(95,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(104,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(110,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(131,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(136,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(262,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(305,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(313,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(443,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(480,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(488,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(778,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(788,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(795,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(818,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\List.h(823,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Stack.h(45,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Stack.h(50,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Stack.h(55,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Stack.h(102,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Stack.h(112,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(53,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(59,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(66,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(123,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(134,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(206,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(218,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(230,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Queue.h(235,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Dictionary.h(119,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Dictionary.h(195,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(427,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(439,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(447,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(560,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(572,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(580,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\HashDictionary.h(112,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\HashDictionary.h(208,3): warning C4002:  too many arguments for function-like macro invocation 'assert'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(375,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(217,2): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(215): message :  while compiling class template member function 'bool AlphabetTrie<std::string>::checkForWord(Char,bool)'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(215): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(215): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(215): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(215): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(597): message :  see reference to function template instantiation 'bool AlphabetTrie<std::string>::checkForWord(Char,bool)' being compiled
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(597): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(597): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(597): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(597): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(582): message :  see reference to class template instantiation 'AlphabetTrie<std::string>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include\chrono(595): message :  see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include\chrono(172): message :  see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.21.27702\include\chrono(574): message :  see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::steady_clock::duration>' being compiled
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(180,2): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(169): message :  while compiling class template member function 'bool AlphabetTrie<std::string>::insertWord(Char,bool)'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(169): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(169): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(169): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(169): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(583): message :  see reference to function template instantiation 'bool AlphabetTrie<std::string>::insertWord(Char,bool)' being compiled
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(583): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(583): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(583): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\main.cpp(583): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(125,2): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(123): message :  while compiling class template member function 'bool AlphabetTrie<std::string>::checkIfAlphabetWord(Char)'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(123): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(123): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(123): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(123): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(170): message :  see reference to function template instantiation 'bool AlphabetTrie<std::string>::checkIfAlphabetWord(Char)' being compiled
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(170): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(170): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(170): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(170): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(101,2): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(63): message :  while compiling class template member function 'TrieNode<Char> *AlphabetTrie<Char>::insertRestofWord(TrieNode<Char> *,Char,int,bool)'
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(63): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(63): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(63): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(63): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message :  see reference to function template instantiation 'TrieNode<Char> *AlphabetTrie<Char>::insertRestofWord(TrieNode<Char> *,Char,int,bool)' being compiled
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message :         with
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message :         [
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message :             Char=std::string
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message :         ]
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message : C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(110) : warning C4715: 'AlphabetTrie<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::insertRestofWord': not all control paths return a value
+C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\Tries.h(182): message : C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\DataStructuresADT\BinaryTrees.h(277) : warning C4715: 'BST<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double>::deletemin': not all control paths return a value
+  DataStructuresADT.vcxproj -> C:\Users\paul.abers\Documents\CPP\DataStructuresADT\DataStructuresADT\Debug\DataStructuresADT.exe
